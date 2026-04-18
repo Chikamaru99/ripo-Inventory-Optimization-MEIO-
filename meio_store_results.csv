@@ -1,0 +1,4 @@
+Node,Fill_Rate,Avg_Inventory,Holding_Cost,Stockout_Cost
+Store_1,99.88,1063.3,388098.0,220.0
+Store_2,99.11,1150.6,503947.2,1536.0
+Store_3,99.39,1003.6,329673.6,1206.0
